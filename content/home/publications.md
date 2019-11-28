@@ -10,6 +10,7 @@ weight = 90  # Order that this section will appear.
 title = "Publications"
 subtitle = ""
 
+
 [content]
   # Page type to display. E.g. post, talk, or publication.
   page_type = "publication"
@@ -30,6 +31,9 @@ subtitle = ""
     publication_type = ""
     exclude_featured = false
 
+  title = "One Shot Object Detection without Finetuning"
+  authors = "Li Xiang*, Lin ZHANG*, Yau-Pun CHEN, Yu-Wing Tai, Chi-Keung Tang"
+  
   
 [design]
   # Toggle between the various page layout types.
@@ -66,14 +70,6 @@ subtitle = ""
  # CSS class.
  css_class = ""
 
-
-[[publication]]
-  title = "One Shot Object Detection Without Finetuning"
-  company = "Hong Kong University of Science and Technology"
-  location = "Hong Kong"
-  date_start = "2019-09-01"
-  date_end = "2019-11-15"
-  description = """HHHHH"""
 +++
 
 {{% alert note %}}
