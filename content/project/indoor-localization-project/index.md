@@ -1,8 +1,6 @@
 ---
 title: Analytics and Recommendation for User Location Data
 summary: In this project, we designed and implemented an indoor localization system for android devices.
-supervisor: Prof. Shueng-Han Gary Chan
-region: Hong Kong University of Science and Technology
 
 tags:
 - Indoor Localization
