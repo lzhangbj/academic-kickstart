@@ -3,7 +3,7 @@
 widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 80  # Order that this section will appear.
+weight = 110  # Order that this section will appear.
 
 title = "Awards"
 subtitle = ""
@@ -19,13 +19,43 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  title = "None"
+  title = "HKSAR Government Scholarship"
   organization = ""
   organization_url = ""
   url = ""
   certificate_url = ""
-  date_start = "1"
+  date_start = "2016-09-01"
+  date_end = "2020-06-01"
+  description = ""
+
+[[item]]
+  title = "Kerry Holdings Limited Scholarship"
+  organization = ""
+  organization_url = ""
+  url = ""
+  certificate_url = ""
+  date_start = "2016-09-01"
+  date_end = "2020-06-01"
+  description = ""
+
+[[item]]
+  title = "Lee Hysan Foundation Exchange Scholarship"
+  organization = ""
+  organization_url = ""
+  url = ""
+  certificate_url = ""
+  date_start = "2019-02-01"
   date_end = ""
+  description = ""
+
+[[item]]
+  title = "Dean's List"
+  organization = "HKUST"
+  organization_url = "https://www.ust.hk/home"
+  url = "https://ugadmin.ust.hk/ug-guide/assessment/dean.html"
+  certificate_url = ""
+  date_start = "2016-09-01"
+  date_end = "2018-06-01"
   description = ""
 
 +++
