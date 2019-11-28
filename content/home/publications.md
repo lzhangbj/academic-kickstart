@@ -8,7 +8,7 @@ active = true  # Activate this widget? true/false
 weight = 90  # Order that this section will appear.
 
 title = "Publications"
-subtitle = ""
+subtitle = "my publications"
 
 
 [content]
@@ -33,7 +33,7 @@ subtitle = ""
 
   title = "One Shot Object Detection without Finetuning"
   authors = "Li Xiang*, Lin ZHANG*, Yau-Pun CHEN, Yu-Wing Tai, Chi-Keung Tang"
-  
+
   
 [design]
   # Toggle between the various page layout types.
