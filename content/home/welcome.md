@@ -9,5 +9,5 @@ date ="2015-09-23T16:30:37+08:00"
 
 menu = "main"
 
-title = "hi, Hugo"
+title = "HI, Hugo"
 +++
