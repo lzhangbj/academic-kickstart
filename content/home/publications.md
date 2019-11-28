@@ -29,6 +29,7 @@ subtitle = ""
     category = ""
     publication_type = ""
     exclude_featured = false
+
   
 [design]
   # Toggle between the various page layout types.
@@ -64,6 +65,15 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
+
+[[publication]]
+  title = "One Shot Object Detection Without Finetuning"
+  company = "Hong Kong University of Science and Technology"
+  location = "Hong Kong"
+  date_start = "2019-09-01"
+  date_end = "2019-11-15"
+  description = """HHHHH"""
 +++
 
 {{% alert note %}}
