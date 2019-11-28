@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Lin ZHANG
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,30 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: Computer Science
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Hong Kong University of Science and Technology
+  url: "https://www.ust.hk/home"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I am a senior undergraduate at Hong Kong University of Science and Technology, major in Computer Science and Mathematics. I have worked on Robotics, Natural Language Processing and Computer Vision. My final year project is about one-shot object detection, supervised by Prof. Chi-Keung Tang and Prof. Yu-Wing Tai.
 
 interests:
 - Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Robotics
+- Computer Vision
+- Natural Language Processing
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Bachelor of Science in Computer Science and Mathematics
+    institution: Hong Kong University of Science and Technology
+    year: 2016-2020
+  - course: Undergraduate Exchange
+    institution: Swiss Federal Institute of Technology in Zurich
+    year: 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -61,7 +59,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
+email: "lzhangbj@connect.ust.hk"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
