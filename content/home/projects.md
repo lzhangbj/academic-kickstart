@@ -28,6 +28,14 @@ subtitle = ""
   [[content.filter_button]]
     name = "Deep Learning"
     tag = "Deep Learning"
+
+  [[content.filter_button]]
+    name = "NLP"
+    tag = "Natural Language Processing"
+
+  [[content.filter_button]]
+    name = "CV"
+    tag = "Computer Vision"
   
   [[content.filter_button]]
     name = "Other"
