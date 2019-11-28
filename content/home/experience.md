@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 80  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Software Developer"
-  company = "HKUSKT Robotics Team --- Intelligence Car Subteam"
+  company = "HKUST Robotics Team --- Intelligence Car Subteam"
   company_url = "https://robotics.ust.hk/"
   location = "Hong Kong"
   date_start = "2016-09-30"
@@ -31,5 +31,5 @@ date_format = "Jan 2006"
   * Auto Control
   * Vision Algorithm Design
   """
-  
+
 +++
