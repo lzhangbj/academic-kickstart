@@ -19,8 +19,8 @@ publishDate: "2019-11-15T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: In submission to *CVPR* 2020
-publication_short: In submission to *CVPR* 2020
+# publication: In submission to *CVPR* 2020
+# publication_short: In submission to *CVPR* 2020
 
 # abstract: 
 
@@ -34,10 +34,10 @@ publication_short: In submission to *CVPR* 2020
 # links:
 # - name: Custom Link
 #   url: http://example.org
-# url_pdf: ""
+url_pdf: "https://drive.google.com/open?id=1IQ9B2YRh6zXi4VshfrpX0XQadR8qqaH-"
 # url_code: '#'
 # url_dataset: '#'
-# url_poster: '#'
+# url_poster: 'https://drive.google.com/open?id=1ufh1Cnyqdsq9Rzu9M_eopzHhpR7wPPFn'
 # url_project: ''
 # url_slides: ''
 # url_source: '#'

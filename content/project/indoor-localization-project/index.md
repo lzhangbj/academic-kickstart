@@ -1,6 +1,6 @@
 ---
 title: Analytics and Recommendation for User Location Data
-summary: In this project, we designed and implemented an indoor localization system for android devices.
+summary: Designed and built an indoor localization system with Android devices, beacons, database and web development.
 
 tags:
 - Indoor Localization
@@ -22,8 +22,8 @@ links:
 #   icon_pack: fab
 #   name: Follow
 #   url: https://twitter.com/georgecushen
-# url_code: "https://github.com/lzhangbj/deep_video_interpolation_extrapolation"
-# url_pdf: ""
+url_code: "https://github.com/lzhangbj/Indoor_Localization_18.git"
+url_pdf: "https://drive.google.com/open?id=1g8O4Bm179Wk41lDv3yzhKYWpHo_vQg7n"
 # url_slides: ""
 # url_video: ""
 

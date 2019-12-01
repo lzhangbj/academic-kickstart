@@ -1,6 +1,6 @@
 ---
 title: Joint Video Object Detection and Tracking via Tracklet Memory 
-summary: This project aims to propose a new integrated framework for online video object detection andtracking via tracklet memory. We hope that through the temporal prediction from the tracklets in memory, the performance of video object detection can be improved.
+summary: Design and implementation of a new integrated framework for online video object detection andtracking via tracklet memory.
 
 tags:
 - Computer Vision

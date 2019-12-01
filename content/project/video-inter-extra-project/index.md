@@ -1,16 +1,16 @@
 ---
 title: Deep Video Interpolation and Extrapolation
-summary: todo
+summary: Designed HRNet-PatchGan generative model and foreground-background seperation generation strategy for long-interval video interpolation & generation
 
 tags:
 - Compupter Vision
 - Video Generation
 - Deep Learning
 
-date: "20169-08-31T00:00:00Z"
+date: "2019-08-31T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+#external_link: ""
 
 # image:
 #   caption: Photo by rawpixel on Unsplash
@@ -24,7 +24,7 @@ links:
 url_code: "https://github.com/lzhangbj/deep_video_interpolation_extrapolation"
 # url_pdf: ""
 # url_slides: ""
-url_video: ""
+url_video: "https://drive.google.com/open?id=1jqrW4_yJFHLlOEULujkaG69njFsvSaNX"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
