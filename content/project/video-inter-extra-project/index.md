@@ -3,7 +3,7 @@ title: Deep Video Interpolation and Extrapolation
 summary: Designed HRNet-PatchGan generative model and foreground-background seperation generation strategy for long-interval video interpolation & generation
 
 tags:
-- Compupter Vision
+- Computer Vision
 - Video Generation
 - Deep Learning
 
