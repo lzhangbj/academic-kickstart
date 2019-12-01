@@ -37,7 +37,7 @@ publication_types: ["3"]
 url_pdf: "https://drive.google.com/open?id=1IQ9B2YRh6zXi4VshfrpX0XQadR8qqaH-"
 # url_code: '#'
 # url_dataset: '#'
-# url_poster: 'https://drive.google.com/open?id=1ufh1Cnyqdsq9Rzu9M_eopzHhpR7wPPFn'
+url_poster: 'https://1999forrestz.wixsite.com/one-shot-detection'
 url_project: 'https://1999forrestz.wixsite.com/one-shot-detection'
 # url_slides: ''
 # url_source: '#'
