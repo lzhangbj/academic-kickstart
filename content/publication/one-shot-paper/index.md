@@ -34,10 +34,10 @@ publication_types: ["3"]
 # links:
 # - name: Custom Link
 #   url: http://example.org
-url_pdf: "https://drive.google.com/open?id=1IQ9B2YRh6zXi4VshfrpX0XQadR8qqaH-"
+# url_pdf: "https://drive.google.com/open?id=1IQ9B2YRh6zXi4VshfrpX0XQadR8qqaH-"
 # url_code: '#'
 # url_dataset: '#'
-url_poster: 'https://1999forrestz.wixsite.com/one-shot-detection'
+# url_poster: 'https://1999forrestz.wixsite.com/one-shot-detection'
 url_project: 'https://1999forrestz.wixsite.com/one-shot-detection'
 # url_slides: ''
 # url_source: '#'
