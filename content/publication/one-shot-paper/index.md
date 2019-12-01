@@ -55,24 +55,13 @@ url_pdf: "https://drive.google.com/open?id=1IQ9B2YRh6zXi4VshfrpX0XQadR8qqaH-"
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- internal-project
+#projects:
+# - internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+# slides: example
 ---
-
-# {{% alert note %}}
-# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-# {{% /alert %}}
-
-# {{% alert note %}}
-# Click the *Slides* button above to demo Academic's Markdown slides feature.
-# {{% /alert %}}
-
-# Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-

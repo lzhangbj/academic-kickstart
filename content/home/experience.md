@@ -21,7 +21,7 @@ date_format = "Jan 2006"
 [[experience]]
   title = "Software Developer"
   company = "HKUST Robotics Team --- Intelligence Car Subteam"
-  company_url = "https://robotics.ust.hk/"
+  company_url = "https://youtu.be/XNHxQgQYgy0"
   location = "Hong Kong"
   date_start = "2016-09-30"
   date_end = "2017-11-30"
