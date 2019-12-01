@@ -22,8 +22,8 @@ bio: I am a senior undergraduate at Hong Kong University of Science and Technolo
 
 interests:
 - Artificial Intelligence
-- Robotics
 - Computer Vision
+- Robotics
 - Natural Language Processing
 
 education:
@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Lin ZHANG is a senior undergraduate at Hong Kong University of Science and Technology, major in Computer Science and Mathematics. He has worked on Robotics, Indoor Localization, Natural Language Processing and Computer Vision. He aims to build an intelligent robot with human-like perception.
+Lin ZHANG is a senior undergraduate at Hong Kong University of Science and Technology, major in Computer Science and Mathematics. He was a full member of HKUST Robotics Team. He has won multiple competitive awards in Robotics competitions and has several research experiences on Computer Vision and Natural Language Processing. He aims to build an intelligent robot with human-like perception.
