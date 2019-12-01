@@ -20,7 +20,7 @@ date: "2018-12-31T00:00:00Z"
 links:
 # - icon: twitter
 #   icon_pack: fab
-#   name: Follow
+name: Prof. Gary
 #   url: https://twitter.com/georgecushen
 # url_code: ""
 url_pdf: "https://drive.google.com/file/d/1YczA4HqvQBoGyBLnVBC9pervTpO9jAze/view?usp=sharing"
