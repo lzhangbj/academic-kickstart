@@ -1,6 +1,6 @@
 ---
 title: Joint Video Object Detection and Tracking via Tracklet Memory 
-summary: Design and implementation of a new integrated framework for online video object detection andtracking via tracklet memory.
+summary: Design and implementation of a new integrated framework for online video object detection and tracking via tracklet memory.
 
 tags:
 - Computer Vision
@@ -22,7 +22,7 @@ links:
 #   icon_pack: fab
 # - name: "Prof. Gary"
 #   url: https://twitter.com/georgecushen
-# url_code: ""
+url_code: "https://github.com/lzhangbj/Tracking.git"
 url_pdf: "https://drive.google.com/file/d/1YczA4HqvQBoGyBLnVBC9pervTpO9jAze/view?usp=sharing"
 # url_slides: ""
 # url_video: ""

@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Lin ZHANG is a senior undergraduate at Hong Kong University of Science and Technology, major in Computer Science and Mathematics. He was a full member of HKUST Robotics Team. He has won multiple competitive awards in Robotics competitions and has several research experiences on Computer Vision and Natural Language Processing. He aims to build an intelligent robot with human-like perception.
+Lin ZHANG is a senior undergraduate at Hong Kong University of Science and Technology, major in Computer Science and Mathematics. He was a full member of HKUST Robotics Team. He has won multiple competitive awards in Robotics competitions and has several research experiences on Computer Vision and Natural Language Processing. His final year project was supervised by Prof. Chi-Keung Tang in HKUST and Prof. Yu-Wing Tai in Tecent YouTu X-Lab. He aims to build an intelligent robot with human-like perception.
