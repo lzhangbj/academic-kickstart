@@ -19,6 +19,19 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
+  title = "Software Internship"
+  company = "MEGVII"
+  company_url = "https://megvii.com/en"
+  location = "BeiJing"
+  date_start = "2019-12-30"
+  date_end = "2020-06-30"
+  description = """
+  Responsibilities include:
+  * Computer Vision Algorithm Design
+  """
+
+
+[[experience]]
   title = "Software Developer"
   company = "HKUST Robotics Team --- Intelligence Car Subteam"
   company_url = "https://youtu.be/XNHxQgQYgy0"
