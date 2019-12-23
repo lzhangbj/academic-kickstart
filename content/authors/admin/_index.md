@@ -69,4 +69,4 @@ user_groups:
 ---
 
 Lin ZHANG is a senior undergraduate at Hong Kong University of Science and Technology, major in Computer Science and Mathematics. He was a full member of HKUST Robotics Team. He has won multiple competitive awards in Robotics competitions and has several research experiences on Computer Vision and Natural Language Processing. His final year project was supervised by Prof. Chi-Keung Tang in HKUST and Prof. Yu-Wing Tai in Tecent YouTu X-Lab. He aims to build an intelligent robot with human-like perception.
-He will join MEGVII Video Group for software internship, working on Computer Vision Algorithm Design for 6 months.
+He will join <a href="https://megvii.com/en">MEGVII</a> Video Group for software internship, working on Computer Vision Algorithm Design for 6 months.
