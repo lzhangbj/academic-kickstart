@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   company_url = "https://megvii.com/en"
   location = "BeiJing"
   date_start = "2019-12-30"
-  date_end = "2020-06-30"
+  date_end = "2020-06-12"
   description = """
   Responsibilities include:
   * Computer Vision Algorithm Design

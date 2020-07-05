@@ -18,16 +18,22 @@ organizations:
   url: "https://www.ust.hk/home"
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a senior undergraduate at Hong Kong University of Science and Technology, major in Computer Science and Mathematics. I have worked on Robotics, Natural Language Processing and Computer Vision. My final year project is about one-shot object detection, supervised by Prof. Chi-Keung Tang and Prof. Yu-Wing Tai.
+bio: Lin ZHANG will start his Master of Sicence in Computer Vision Education at Carnegie Mellon University in Spring 2021. Previous to that, he received his bachelor of science degree in Computer Science and Mathematics from Hong Kong University of Science and Technology.  He has worked on Computer Vision, Natural Language Processing and Robotics. His final year project is about one-shot object detection, supervised by Prof. Chi-Keung Tang and Prof. Yu-Wing Tai.
 
 interests:
 - Artificial Intelligence
 - Computer Vision
-- Robotics
+- Full-Stack development
+- Big Data
 - Natural Language Processing
+- Robotics
+
 
 education:
   courses:
+  - course: Master of Science in Computer Vision
+    institution: Robotics Institute at Carnegie Mellong University
+    year: 2021-2022
   - course: Bachelor of Science in Computer Science and Mathematics
     institution: Hong Kong University of Science and Technology
     year: 2016-2020
@@ -68,5 +74,6 @@ user_groups:
 - Visitors
 ---
 
-Lin ZHANG is a senior undergraduate at Hong Kong University of Science and Technology, major in Computer Science and Mathematics. He was a full member of HKUST Robotics Team. He has won multiple competitive awards in Robotics competitions and has several research experiences on Computer Vision and Natural Language Processing. His final year project was supervised by <a href="http://www.cs.ust.hk/~cktang/bio-sketch-review.htm">Prof. Chi-Keung Tang</a> in HKUST and <a href="https://www.cse.ust.hk/admin/people/faculty/profile/yuwing">Prof. Yu-Wing Tai</a> in <a href="https://ai.qq.com/hr/youtu.shtml">Tecent YouTu Lab</a>. He aims to build an intelligent robot with human-like perception.</br>
-<b><p color="red">UPDATE: </p></b> He will join <a href="https://megvii.com/en">MEGVII</a> Video Group for software internship, working on Computer Vision Algorithm Design for 6 months.
+Lin ZHANG will start his Master of Sicence in Computer Vision Education at Carnegie Mellon University in Spring 2021. Previous to that, he received his bachelor of science degree in Computer Science and Mathematics from Hong Kong University of Science and Technology.  He has worked on Computer Vision, Natural Language Processing and Robotics. His final year project is about one-shot object detection, supervised by <a href="http://www.cs.ust.hk/~cktang/bio-sketch-review.htm">Prof. Chi-Keung Tang</a> and <a href="https://www.cse.ust.hk/admin/people/faculty/profile/yuwing">Prof. Yu-Wing Tai</a>. 
+
+<!-- Lin ZHANG is a senior undergraduate at Hong Kong University of Science and Technology, major in Computer Science and Mathematics. He was a full member of HKUST Robotics Team. He has won multiple competitive awards in Robotics competitions and has several research experiences on Computer Vision and Natural Language Processing. His final year project was supervised by <a href="http://www.cs.ust.hk/~cktang/bio-sketch-review.htm">Prof. Chi-Keung Tang</a> in HKUST and <a href="https://www.cse.ust.hk/admin/people/faculty/profile/yuwing">Prof. Yu-Wing Tai</a> in <a href="https://ai.qq.com/hr/youtu.shtml">Tecent YouTu Lab</a>. He aims to build an intelligent robot with human-like perception.</br> -->
