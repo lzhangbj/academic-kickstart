@@ -18,7 +18,7 @@ organizations:
   url: "https://www.ust.hk/home"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Lin ZHANG will start his Master of Sicence in Computer Vision Education at Carnegie Mellon University in Spring 2021. Previous to that, he received his bachelor of science degree in Computer Science and Mathematics from Hong Kong University of Science and Technology.  He has worked on Computer Vision, Natural Language Processing and Robotics. His final year project is about one-shot object detection, supervised by Prof. Chi-Keung Tang and Prof. Yu-Wing Tai.
+bio: Lin ZHANG will start his Master of Sicence in Computer Vision Program at Carnegie Mellon University in Spring 2021. Previous to that, he received his bachelor of science in Computer Science and Mathematics degree from Hong Kong University of Science and Technology.  He has worked on Computer Vision, Natural Language Processing and Robotics. His final year project is about one-shot object detection, supervised by Prof. Chi-Keung Tang and Prof. Yu-Wing Tai.
 
 interests:
 - Artificial Intelligence
