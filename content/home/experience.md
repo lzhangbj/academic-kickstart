@@ -27,7 +27,9 @@ date_format = "Jan 2006"
   date_end = "2020-06-12"
   description = """
   Responsibilities include:
+
   * Computer Vision Algorithm Design
+
   """
 
 
@@ -40,9 +42,11 @@ date_format = "Jan 2006"
   date_end = "2017-11-30"
   description = """
   Responsibilities include:
+
   * Robot Design
   * Auto Control
   * Vision Algorithm Design
+  
   """
 
 +++
