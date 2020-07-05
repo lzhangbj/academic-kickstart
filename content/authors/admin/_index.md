@@ -33,7 +33,7 @@ education:
   courses:
   - course: Master of Science in Computer Vision
     institution: Robotics Institute at Carnegie Mellong University
-    year: 2021-2022
+    year: 2021-2022 (expected)
   - course: Bachelor of Science in Computer Science and Mathematics
     institution: Hong Kong University of Science and Technology
     year: 2016-2020
