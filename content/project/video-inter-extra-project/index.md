@@ -23,8 +23,8 @@ links:
 #   url: https://twitter.com/georgecushen
 url_code: "https://github.com/lzhangbj/deep_video_interpolation_extrapolation"
 # url_pdf: ""
-url_slides: "https://drive.google.com/open?id=1JQoSH8AjjhtxcuO54Aqf6hFuFlBanLs7"
-url_video: "https://drive.google.com/open?id=1jqrW4_yJFHLlOEULujkaG69njFsvSaNX"
+url_slides: "https://drive.google.com/file/d/1JQoSH8AjjhtxcuO54Aqf6hFuFlBanLs7/view?usp=sharing"
+url_video: "https://drive.google.com/drive/folders/17usR1fGxeaHQxgzipyyx4lpd821qxGuk?usp=sharing"
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
